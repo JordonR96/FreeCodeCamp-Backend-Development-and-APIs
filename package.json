@@ -1,6 +1,6 @@
 {
-	"author": "Jordon Rowley",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jordon Rowley",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
